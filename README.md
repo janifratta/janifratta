@@ -1,11 +1,10 @@
 ## Oiiiie! Eu sou a Janielle Fratta
 
-![](cat-lotus.gif)
+Sou Especialista em Testes Manuais com mais de 5 anos de experiência em testes de jogos. 
+Atualmente estou me aventurando e aprofundando meus conhecimentos em Automação. 
 
-Sou Especialista em Testes Manuais com mais de 5 anos de experiencia em testes de jogos. 
-<div>
+![](cat-lotus.gif)
   
-</div>
 
 <!--
 **janifratta/janifratta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
