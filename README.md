@@ -1,4 +1,11 @@
-## Hi there 👋
+## Oiiiie! Eu sou a Janielle Fratta
+
+![](cat-lotus.gif)
+
+Sou Especialista em Testes Manuais com mais de 5 anos de experiencia em testes de jogos. 
+<div>
+  
+</div>
 
 <!--
 **janifratta/janifratta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
